@@ -1,0 +1,107 @@
+/* TAG Selectors */
+a:hover {
+  color: #8F1216;
+}
+
+body {
+  background-color: #E7E7DE;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #128F8B;
+  border-width: 9px;
+  width: 5%;
+}
+
+h1 {
+  color: #00587A;
+}
+
+h2 {
+  color: #00587A;
+  text-align: center;
+}
+
+h3 {
+  color: #00587A;
+  text-align: center;
+}
+
+td {
+  border-color: #00587A;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+/* CLASS Selectors */
+.logo {
+  height: 150px;
+  display: flex;
+  justify-content: center;
+}
+
+.about-me {
+  color: #0F3057;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+.work {
+  text-align: center;
+  border: 6px;
+  border-color: #128F8B;
+  border-style: groove;
+  margin-left: auto;
+  margin-right: auto;
+  padding: inherit;
+}
+
+.contact {
+  text-align: center;
+}
+
+.cert {
+  text-align: center;
+}
+
+.skill {
+  margin: auto;
+  text-align: center;
+  border: 6px;
+  border-color: #128F8B;
+  border-style: groove;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.edu {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #9E1B32;
+}
+
+.edu-02 {
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: black;
+}
+
+.edu-03 {
+  text-align: center;
+  color: black;
+}
+
+.footer {
+  margin: 15px;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+}
