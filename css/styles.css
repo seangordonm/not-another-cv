@@ -1,6 +1,6 @@
 /* TAG Selectors */
 a:hover {
-  color: #0F3057;
+  color: #8F1216;
 }
 
 body {
@@ -37,7 +37,6 @@ p {
   text-align: center;
 }
 
-
 /* CLASS Selectors */
 .logo {
   height: 150px;
@@ -58,11 +57,10 @@ p {
   border: 6px;
   border-color: #128F8B;
   border-style: groove;
-  margin: 0 auto;
-  padding-left: 10px;
-  padding-right: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: inherit;
 }
-
 
 .contact {
   text-align: center;
@@ -73,31 +71,32 @@ p {
 }
 
 .skill {
-  margin: 0 auto;
+  margin: auto;
   text-align: center;
   border: 6px;
   border-color: #128F8B;
   border-style: groove;
+  padding-right: 20px;
+  padding-left: 20px;
 }
 
 .edu {
   text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
   color: #9E1B32;
-  padding-right: 50px;
-
 }
 
 .edu-02 {
   text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
   color: black;
-  padding-left: 14px;
 }
 
 .edu-03 {
   text-align: center;
   color: black;
-  font-size: 14px;
-  padding-right: 25px;
 }
 
 .footer {
